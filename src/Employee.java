@@ -26,6 +26,7 @@ public class Employee {
     }
 
     // Create Database Connection
+    // cd Downloads; sudo ./xampp-linux-x64-8.2.0-0-installer.run
     // http://localhost/phpmyadmin/index.php?route=/server/databases
 
     Connection con;
